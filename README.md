@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Hi+I+am+Raghul;Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Hi+I+am+Tejas;Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
     </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### Hi there! 👋
 
-I'm Raghul, a Full Stack Developer passionate about shaping the future of tech. Currently, I'm on a mission to revolutionize global hiring with the power of AI 🚀
+I'm Tejas, a Full Stack Developer passionate about shaping the future of tech. Currently, I'm on a mission to revolutionize global hiring with the power of AI 🚀
 
 #### About Me
 
@@ -24,12 +24,12 @@ Beyond coding, I'm an explorer of new technologies, an avid learner, and a natur
 
 #### Let's Connect!
 
- &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Raghul195308221) &nbsp;&nbsp;&nbsp;  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghul-p-50478323b/) &nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghulraghul111@gmail.com)
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Tejas195308221) &nbsp;&nbsp;&nbsp;  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tejas-p-50478323b/) &nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TejasTejas111@gmail.com)
 
 
 <hr>
 
-<img align="right" alt="GIF" src="https://github.com/Ramraghul/Ramraghul/blob/main/techstack.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://github.com/RamTejas/RamTejas/blob/main/techstack.gif" width="300px"/>
   
 ### More About Me:🧐
 
@@ -42,7 +42,7 @@ Beyond coding, I'm an explorer of new technologies, an avid learner, and a natur
 <br>
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ramraghul&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=RamTejas&color=green)
 
 
 <hr>
@@ -97,8 +97,8 @@ Beyond coding, I'm an explorer of new technologies, an avid learner, and a natur
 ### Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramraghul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ramraghul&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramraghul&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamTejas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RamTejas&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamTejas&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
